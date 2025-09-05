@@ -24,22 +24,23 @@
 ## 🛠️ Habilidades Técnicas
 
 ### ⚡ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,bootstrap" />
 </p>
 
 ### ⚙️ Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python" />
 </p>
 
 ### 🗄️ Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mssql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ### 🛠️ Ferramentas
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
